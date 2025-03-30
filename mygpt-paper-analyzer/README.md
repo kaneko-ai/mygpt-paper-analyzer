@@ -1,1 +1,0 @@
-# MyGPT Paper Scoring Tool
